@@ -11,7 +11,12 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+
 //ooo
+
+// 웡기3호 출발하라
+//qq
+
 /**
  * Handles requests for the application home page.
  */
@@ -19,7 +24,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-	
+	//jinju zzang~~~~
+    //hello = hi = h2
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
